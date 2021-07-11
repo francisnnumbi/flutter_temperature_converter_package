@@ -1,0 +1,1 @@
+enum Temperature { CELCIUS, FAHRENHEIT, KELVIN, RANKINE, REAUMUR }
